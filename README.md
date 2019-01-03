@@ -1,3 +1,11 @@
+# url 
+
+You can access the page via https://anishkumar92.github.io/AngularApp/dist . This is just a initial build , will be updating soon.
+Thanks for visiting .
+
+I do not own these code as it my learing project from Udemy . 
+Author - Traversymedia 
+
 # Angularapp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6.
