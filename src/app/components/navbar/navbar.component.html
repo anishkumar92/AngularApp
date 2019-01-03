@@ -1,5 +1,20 @@
-<nav class="navbar navbar-dark bg-primary mb-4">
+<nav class="navbar navbar-expand navbar-dark bg-primary mb-4">
   <div class="container">
-    <a href="" class="navbar-brand"> Angular app</a>
+    <a routerLink="/" class="navbar-brand"> Angular app</a>
+    <div>
+            <ul class="navbar-nav m1-auto">
+              <li class="nav-item">
+                <a routerLink="/" class="nav-link">Home</a>
+              </li>  
+              <li class="nav-item">
+                <a routerLink="/users" class="nav-link">User</a>
+              </li>
+              <li class="nav-item">
+                <a routerLink="/post" class="nav-link">Post</a>
+              </li>
+            </ul>
+
+    </div>
+ 
   </div>
 </nav>
